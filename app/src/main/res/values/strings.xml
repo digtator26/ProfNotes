@@ -15,4 +15,9 @@
     <string name="loginWithoutAccount">Или войдите без аккаунта, если не хотите пользоваться всеми возможностями</string>
     <string name="hintForgotPassword">Не помните свой пароль? Восстановите пароль</string>
     <string name="btnLogin">Войти</string>
+    <string name="text_view_greetings">Добро пожаловать,</string>
+    <string name="hint_search">Поиск по заметкам</string>
+    <string name="new_notes">Новые заметки</string>
+    <string name="my_tasks">Мои задачи</string>
+    <string name="all_tasks">Все задачи</string>
 </resources>
